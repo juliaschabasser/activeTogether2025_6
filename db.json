@@ -11,7 +11,7 @@
       "eventLocationId": 1
     },
     {
-      "id": "_iL775j",
+      "id": "_iL775p",
       "name": "Reiten",
       "instructor": "Cowboy Tim",
       "dates": [
@@ -21,7 +21,17 @@
       "eventLocationId": 2
     },
     {
-      "id": "_iL775j",
+      "id": "_iL775o",
+      "name": "Tennis",
+      "instructor": "Cowboy Tim",
+      "dates": [
+        { "begin": "2024-11-13T17:00:00", "end": "2024-11-13T19:00:00" },
+        { "begin": "2024-11-14T17:00:00", "end": "2024-11-14T19:00:00" }
+      ],
+      "eventLocationId": 2
+    },
+    {
+      "id": "_iL175j",
       "name": "Yoga",
       "instructor": "Manuela Ganzentspannt",
       "dates": [
@@ -57,6 +67,12 @@
       "name": "Testuser",
       "birthdate": "2024-11-13",
       "courseId": "_iL775j"
+    },
+    {
+      "id": 2,
+      "name": "Julia",
+      "birthdate": "2024-11-13",
+      "courseId": "_iL775p"
     }
   ]
 }
